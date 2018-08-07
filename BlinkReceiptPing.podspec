@@ -20,7 +20,7 @@ This is the BlinkReceipt SDK
 
   s.vendored_frameworks = ["BlinkReceiptPing.framework"]
 
-  s.resources = ["BlinkReceipt.framework/*.zzip", "BlinkReceipt.framework/*.der", "BlinkReceipt.framework/*.nib", "BlinkReceipt.framework/*.png", "BlinkReceipt.framework/*.wav", "BlinkReceipt.framework/*.csv"]
+  s.resources = ["BlinkReceiptPing.framework/*.zzip", "BlinkReceiptPing.framework/*.der", "BlinkReceiptPing.framework/*.nib", "BlinkReceiptPing.framework/*.png", "BlinkReceiptPing.framework/*.wav", "BlinkReceiptPing.framework/*.csv"]
   
   s.dependency 'AFNetworking', '~> 3.0'
   s.dependency 'libextobjc', '~> 0.4'
